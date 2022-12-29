@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test/
+compilerResult/
+.vscode/
+json2html.css.template.ts
+json2html.html.template.ts
+json2html.http.config.ts
+json2html.css.template.ts
+package-lock.json
+index.ts
+hh.js
+FigmaHtml.html
+FigmaFastCodeConfig.ts
